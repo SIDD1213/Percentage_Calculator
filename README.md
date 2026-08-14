@@ -1,40 +1,49 @@
-# Student Percentage Calculator 📊
+# Java Calculator 🧮
 
-A simple **Python project** that calculates a student's total marks, percentage, and result based on marks obtained in different subjects.
+A simple **Java Calculator** project that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## ✨ Features
 
-* Enter marks for multiple subjects
-* Calculate total marks
-* Calculate percentage
-* Display the student's result
-* Simple and beginner-friendly Python program
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* User input using `Scanner`
+* Simple and beginner-friendly Java program
 
 ## 🛠️ Technologies Used
-* Python
-## 🧮 Formula
 
-**Percentage = (Total Marks Obtained / Total Maximum Marks) × 100**
+* Java
+* Scanner Class
 
 ## ▶️ How to Run
 
-1. Install Python.
-2. Download or clone this repository.
-3. Open the Python file.
-4. Run the program using:
+1. Install Java JDK.
+2. Clone or download this repository.
+3. Open the Java file.
+4. Compile the program:
 
 ```bash
-python percentage_calculator.py
+javac Calculator.java
 ```
+
+5. Run the program:
+
+```bash
+java Calculator
+```
+
 ## 🎯 Learning Outcomes
 
 Through this project, I practiced:
 
-* Python variables
+* Java variables and data types
 * User input
 * Arithmetic operators
 * Conditional statements
-* Basic problem-solving
+* Basic Java programming
+* Problem-solving skills
 
 ## 👩‍💻 Author
+
 **Siddhi Mhatre**
